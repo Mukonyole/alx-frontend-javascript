@@ -1,0 +1,1 @@
+Data manipulation includes the theories and techniques for managing the entire data lifecycle, from data collection to data format conversion, from data storage to data sharing and retrieval, to data provenance, data quality control and data curation for long-term data archival and preservation.
